@@ -45,3 +45,6 @@ This project simulates how analysts support organizations like UNDP by:
 ---
 
 ## 📁 Project Structure
+## 📊 Example Output
+
+![GDP per Capita Trends](outputs/gdp_plot.png)
