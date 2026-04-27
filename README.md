@@ -46,5 +46,9 @@ This project simulates how analysts support organizations like UNDP by:
 
 ## 📁 Project Structure
 ## 📊 Example Output
+## 📊 Example Output
 
+This visualization shows GDP per capita trends for selected countries using World Bank data.
+
+![GDP per Capita Trends](outputs/gdp_plot.png)
 ![GDP per Capita Trends](outputs/gdp_plot.png)
